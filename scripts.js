@@ -1,5 +1,6 @@
 var slideIndex = 0;
 showSlides();
+saveToStorage()
 
 function showSlides() {
 	var i;
